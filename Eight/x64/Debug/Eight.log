@@ -1,0 +1,87 @@
+﻿  DynamicPlatform.cpp
+C:\Users\Admin\Source\Repos\Eight\Eight\DynamicPlatform.h(30,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\DynamicPlatform.h(30,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Floor.cpp
+C:\Users\Admin\Source\Repos\Eight\Eight\Floor.h(19,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\Floor.h(19,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Platform.cpp
+C:\Users\Admin\Source\Repos\Eight\Eight\Platform.h(20,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\Platform.h(20,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  VoidFloor.cpp
+C:\Users\Admin\Source\Repos\Eight\Eight\VoidFloor.h(20,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\VoidFloor.h(20,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\Admin\Source\Repos\Eight\Eight\VoidFloor.h(20,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\VoidFloor.h(20,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\Platform.h(20,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\Platform.h(20,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\DynamicPlatform.h(30,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\DynamicPlatform.h(30,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\Floor.h(19,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\Source\Repos\Eight\Eight\Floor.h(19,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  Eight.vcxproj -> C:\Users\Admin\Source\Repos\Eight\x64\Debug\Eight.exe
